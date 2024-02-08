@@ -1,6 +1,6 @@
-a=12
-b=10
-
-sum = a+b
+a=11
+b=12
+c=13
+sum = a+b+c
 
 print sum
