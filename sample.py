@@ -1,7 +1,7 @@
 a=11
 b=12
 c=13
-
-sum = a+b+c
+d=89
+sum = a+b+c+d
 
 print sum
